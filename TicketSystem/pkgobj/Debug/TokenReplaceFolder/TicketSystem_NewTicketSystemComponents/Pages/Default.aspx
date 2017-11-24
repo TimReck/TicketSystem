@@ -29,12 +29,9 @@
 <%-- The markup and script in the following Content element will be placed in the <body> of the page --%>
 <asp:Content ContentPlaceHolderID="PlaceHolderMain" runat="server">
 
-    <div>
         <p>
             <asp:HyperLink runat="server"
                 NavigateUrl="JavaScript:window.location = _spPageContextInfo.webAbsoluteUrl + '/Lists/NewTickets/AllItems.aspx';"
-                T ext="Ticketsystem" />
+                Text="Ticketsystem" />
         </p>
-    </div>
-
 </asp:Content>

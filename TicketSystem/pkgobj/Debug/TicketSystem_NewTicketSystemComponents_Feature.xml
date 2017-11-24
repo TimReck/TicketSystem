@@ -16,6 +16,8 @@
     <ElementManifest Location="NewTickets\Elements.xml" />
     <ElementManifest Location="NewTicketSystem\Elements.xml" />
     <ElementFile Location="NewTicketSystem\Schema.xml" />
+    <ElementManifest Location="Fachbereich\Elements.xml" />
+    <ElementManifest Location="TicketStatus\Elements.xml" />
   </ElementManifests>
   <UpgradeActions>
     <VersionRange>
@@ -26,6 +28,8 @@
         <ElementManifest Location="Images\Elements.xml" />
         <ElementManifest Location="NewTickets\Elements.xml" />
         <ElementManifest Location="NewTicketSystem\Elements.xml" />
+        <ElementManifest Location="Fachbereich\Elements.xml" />
+        <ElementManifest Location="TicketStatus\Elements.xml" />
       </ApplyElementManifests>
     </VersionRange>
   </UpgradeActions>

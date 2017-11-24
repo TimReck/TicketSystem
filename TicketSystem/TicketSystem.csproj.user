@@ -3,4 +3,14 @@
   <PropertyGroup>
     <SharePointSiteUrl>https://elutionsnetwork.sharepoint.com/sites/ticket/</SharePointSiteUrl>
   </PropertyGroup>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{C1CDDADD-2546-481F-9697-4EA41081F2FC}">
+        <ProjectStore>
+          <AppInstancePackageModifiedTime>2017-11-24T10:13:47.2186618Z</AppInstancePackageModifiedTime>
+          <AppInstanceId>ef86d183-328f-4e2d-96b8-e77b84557954</AppInstanceId>
+        </ProjectStore>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
 </Project>

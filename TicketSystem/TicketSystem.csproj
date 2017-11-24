@@ -48,6 +48,8 @@
     <Content Include="Scripts\jquery-1.9.1.intellisense.js" />
     <Content Include="Scripts\jquery-1.9.1.js" />
     <Content Include="Scripts\jquery-1.9.1.min.js" />
+    <Content Include="Site Columns\Fachbereich\Elements.xml" />
+    <Content Include="Site Columns\TicketStatus\Elements.xml" />
     <None Include="Lists\NewTicketSystem\NewTickets\SharePointProjectItem.spdata">
       <SharePointProjectItemId>{f747cbde-cc72-4cf3-b637-f94d29d66857}</SharePointProjectItemId>
     </None>
@@ -60,6 +62,12 @@
     </None>
     <Content Include="Pages\Elements.xml" />
     <Content Include="Pages\Default.aspx" />
+    <None Include="Site Columns\Fachbereich\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{9ba8c4c9-7cae-40b9-89a7-c3101533890f}</SharePointProjectItemId>
+    </None>
+    <None Include="Site Columns\TicketStatus\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{ebd3363e-e5e1-4a7a-8deb-3b5525408181}</SharePointProjectItemId>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <None Include="Scripts\jquery-1.9.1.min.map" />

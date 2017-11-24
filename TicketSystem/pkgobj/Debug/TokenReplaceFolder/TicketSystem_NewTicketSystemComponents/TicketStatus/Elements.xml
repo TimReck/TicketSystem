@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">  
+  <Field
+       ID="{5b8877bc-de52-48fe-b78d-43067d28639e}"
+       Name="TicketStatus"
+       DisplayName="Ticket Status"
+       Title="Ticket Status"
+       Description="Momentaner Bearbeitungsstatus des Tickets"
+       Type="Choice"
+       Required="TRUE"
+       Group="Ticket System">
+
+    <CHOICES>
+      <CHOICE>Nicht gestartet</CHOICE>
+      <CHOICE>In Bearbeitung</CHOICE>
+      <CHOICE>Abgeschlossen</CHOICE>
+      <CHOICE>Fertig und bereit zum Entfernen</CHOICE>
+    </CHOICES>
+    <MAPPINGS>
+      <MAPPING Value="1">Nicht gestartet</MAPPING>
+      <MAPPING Value="2">In Bearbeitung</MAPPING>
+      <MAPPING Value="3">Abgeschlossen</MAPPING>
+      <MAPPING Value="4">Fertig und bereit zum Entfernen</MAPPING>
+    </MAPPINGS>
+    <Default>Nicht gestartet</Default>
+    
+  </Field>
+</Elements>
