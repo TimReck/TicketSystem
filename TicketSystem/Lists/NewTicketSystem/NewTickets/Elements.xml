@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ListInstance 
+    Title="New Ticket System" 
+    OnQuickLaunch="TRUE" 
+    TemplateType="100" 
+    Url="Lists/NewTickets" 
+    Description="Die neusten Tickets"
+  >
+    <Data>
+      <Rows>
+        <Row>
+          <Field Name="Title">PC kaputt</Field>
+        </Row>
+        <Row>
+          <Field Name="Title">Internetausfall</Field>
+        </Row>
+        <Row>
+          <Field Name="Title">Programm benötigt</Field>
+        </Row>
+        <Row>
+          <Field Name="Title">Webseite benötigt</Field>
+        </Row>
+      </Rows>
+    </Data>
+    
+  </ListInstance>
+</Elements>

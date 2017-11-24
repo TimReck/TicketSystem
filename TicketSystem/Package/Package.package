@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="76b2dbf4-7cec-4aa3-96ee-42352ddb3abf" 
+        solutionId="76b2dbf4-7cec-4aa3-96ee-42352ddb3abf" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="TicketSystem"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="97cd2cbf-0016-4c29-ab24-e3262ed80cfc" />
+  </features>
+</package>
