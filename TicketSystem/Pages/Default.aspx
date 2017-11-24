@@ -34,5 +34,4 @@
                 NavigateUrl="JavaScript:window.location = _spPageContextInfo.webAbsoluteUrl + '/Lists/NewTickets/AllItems.aspx';"
                 Text="Ticketsystem" />
         </p>
-
 </asp:Content>
