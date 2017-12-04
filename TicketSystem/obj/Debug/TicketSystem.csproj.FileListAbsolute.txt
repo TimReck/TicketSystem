@@ -1,4 +1,0 @@
-c:\users\t.recktenwald\source\repos\TicketSystem\TicketSystem\bin\Debug\TicketSystem.pdb
-c:\users\t.recktenwald\source\repos\TicketSystem\TicketSystem\obj\Debug\TicketSystem.csproj.CoreCompileInputs.cache
-c:\users\t.recktenwald\source\repos\TicketSystem\TicketSystem\obj\Debug\TicketSystem.dll
-c:\users\t.recktenwald\source\repos\TicketSystem\TicketSystem\obj\Debug\TicketSystem.pdb

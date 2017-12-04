@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="76b2dbf4-7cec-4aa3-96ee-42352ddb3abf" SharePointProductVersion="16.0">
-  <FeatureManifests>
-    <FeatureManifest Location="TicketSystem_NewTicketSystemComponents\Feature.xml" />
-  </FeatureManifests>
-</Solution>
